@@ -4,8 +4,8 @@ I mainly make discord (self)bots and sometimes Meteor Client addons for Minecraf
 
 **Main Projects**:
 - VBot: https://github.com/vined-underscore/VBot
-- https://github.com/vined-underscore/fabled\n
-  I will most likely add more as I have a lot of private bots/selfbots
+- https://github.com/vined-underscore/fabled
+- I will most likely add more as I have a lot of private bots/selfbots
   
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
