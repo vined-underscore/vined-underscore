@@ -1,16 +1,15 @@
-### Hi there 👋
+### It is I, vined_
 
-<!--
-**vined-underscore/vined-underscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mainly make discord (self)bots and sometimes Meteor Client addons for Minecraft
 
-Here are some ideas to get you started:
+**Main Projects**:
+- VBot: https://github.com/vined-underscore/VBot
+- https://github.com/vined-underscore/fabled
+  I will most likely add more as I have a lot of private bots/selfbots
+  
+### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact:
+- Discord: `vined.mm.m.m.m.m.....#0525` (851442209021493268)
