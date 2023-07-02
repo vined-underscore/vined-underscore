@@ -12,4 +12,4 @@ I mainly make discord (self)bots and sometimes Meteor Client addons for Minecraf
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 #### Contact:
-- Discord: `vined.mm.m.m.m.m.....#0525` (851442209021493268)
+- Discord: `vined_` (851442209021493268)
